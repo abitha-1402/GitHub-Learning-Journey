@@ -3,8 +3,7 @@
 ## What is Git?
 
 Git is a distributed version control system that helps developers track and manage changes
- in their projects. It allows you to save different versions of your code, work on new 
- features using branches, and collaborate with other developers without losing previous work.
+ in their projects. It helps you to keep track of code changes and collaborate with other developers without losing previous work.
 
 Git works on your local computer and helps you organize your project efficiently.
 
