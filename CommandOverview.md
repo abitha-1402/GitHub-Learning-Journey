@@ -16,12 +16,13 @@ During my Git learning journey, I practiced the following Git commands:
 - Merge Conflict
 - Git Diff
 - Git Remote
+This repository provides an overview of the Git commands I learned.
 
 ## Learn More
 
-I have created a separate branch named **git-command-guide**.
+I have created a separate repository named **Git-Command-Guide** to provide detailed explanations of the Git commands I learned.
 
-This branch contains detailed explanations for each command, including:
+Each command includes:
 
 - Definition
 - Purpose
@@ -32,6 +33,6 @@ This branch contains detailed explanations for each command, including:
 - Common Errors
 - Best Practices
 
-👉 Switch to the **git-command-guide** branch to explore the complete command guide.👉 Click here to open the Git Command Guide:
+👉 **Click here to explore the complete Git Command Guide:**
 
-[Git Command Guide](https://github.com/<Abitha-1402>/Git-Learning-Journey/tree/git-command-guide)
+[Git-Command-Guide](https://github.com/Abitha-1402/Git-Command-Guide)
