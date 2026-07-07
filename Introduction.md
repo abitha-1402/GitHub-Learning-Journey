@@ -1,4 +1,4 @@
-# # Git and GitHub Introduction
+# Git and GitHub Introduction
 
 ## What is Git?
 
@@ -9,7 +9,7 @@ Git is a distributed version control system that helps developers track and mana
 Git works on your local computer and helps you organize your project efficiently.
 
 
-# What is GitHub?
+## What is GitHub?
 
 GitHub is a cloud-based platform that hosts Git repositories. It allows you to store your 
 projects online, share your code with others, collaborate with developers, and keep a backup 
