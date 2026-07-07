@@ -65,7 +65,7 @@ https://github.com/username/Git-Learning-Journey
 You can use this URL to clone or connect your local project.
 
 
-### Error
+## Common Error
 
 ```text
 Repository not found
