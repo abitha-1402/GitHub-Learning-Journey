@@ -16,6 +16,7 @@ During my Git learning journey, I practiced the following Git commands:
 - Merge Conflict
 - Git Diff
 - Git Remote
+This repository provides an overview of the Git commands I learned.
 
 This repository provides an overview of the Git commands I learned.
 
