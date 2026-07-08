@@ -16,7 +16,6 @@ During my Git learning journey, I practiced the following Git commands:
 - Merge Conflict
 - Git Diff
 - Git Remote
-This repository provides an overview of the Git commands I learned.
 
 This repository provides an overview of the Git commands I learned.
 
@@ -32,8 +31,8 @@ Each command includes:
 - Example
 - How It Works
 - Output
-- Common Errors
-- Best Practices
+- Important Note
+- Conclusion
 
 👉 **Click here to explore the complete Git Command Guide:**
 
