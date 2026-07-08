@@ -43,10 +43,13 @@ After the Pull Request is merged, the changes from the source branch become part
 
 ## Common Errors
 **Error**
+
 - There isn’t anything to compare.
 **Reason**
+
 - Both branches contain the same changes.
 **Solution**
+
 - Make new changes and push them before creating a Pull Request.
 
 **Error**
