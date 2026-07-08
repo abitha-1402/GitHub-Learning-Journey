@@ -49,7 +49,7 @@ git commit -m "Resolved merge conflict"
 
 ## Common Errors
 
-### Error
+**Error**
 ```text
 Automatic merge failed; fix conflicts and then commit the result.
 ```
