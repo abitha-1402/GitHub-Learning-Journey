@@ -12,17 +12,11 @@ To discuss changes with team members.
 To improve code quality.
 To collaborate safely.
 To keep the project organized.
- 
-## Syntax
-A Pull Request is created on GitHub, not in the Git terminal.
 
 ## Steps:
 Push your branch to GitHub.
-
 Open the repository on GitHub.
-
 Click Compare & pull request or it will directly show pull request at the top.
-
 Add a title and description.
 Click Create pull request.
 Review the changes.
@@ -50,7 +44,7 @@ Go to GitHub and create a Pull Request from:
 After the Pull Request is merged, the changes from the source branch become part of the target branch.
 
 ## Common Errors
-**Error**
+*Error*
 There isn’t anything to compare.
 
 **Reason**
