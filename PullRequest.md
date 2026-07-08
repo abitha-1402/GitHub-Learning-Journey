@@ -16,8 +16,11 @@ A Pull Request is created on GitHub, not in the Git terminal.
 
 ## Steps:
 Push your branch to GitHub.
+
 Open the repository on GitHub.
+
 Click Compare & pull request or it will directly show pull request at the top.
+
 Add a title and description.
 Click Create pull request.
 Review the changes.
