@@ -4,6 +4,8 @@
 ## What is a Pull Request?
 A Pull Request (PR) is a GitHub feature used to request merging changes from one branch into another branch. It allows other developers to review the changes before they are merged.
 
+<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/7d98a16a-4078-4216-a5f6-8b1ea2a98772" />
+
 ## Why Use a Pull Request?
 To review code before merging.
 To discuss changes with team members.
