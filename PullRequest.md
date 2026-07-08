@@ -26,18 +26,17 @@ Click Merge pull request if approved.
 ## Example
 ``Current Branch:
 ``
-
 feature-login
 
-Target Branch:
-
-``main
+``Target Branch:
 ``
-After pushing the branch:
+main
 
+After pushing the branch:
 git push -u origin feature-login
 
 Go to GitHub and create a Pull Request from:
+
 
 ``feature-login → main
 ``
