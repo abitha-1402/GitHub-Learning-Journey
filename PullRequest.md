@@ -42,23 +42,19 @@ Go to GitHub and create a Pull Request from:
 After the Pull Request is merged, the changes from the source branch become part of the target branch.
 
 ## Common Errors
-*Error*
-There isn’t anything to compare.
-
+**Error**
+- There isn’t anything to compare.
 **Reason**
-Both branches contain the same changes.
-
+- Both branches contain the same changes.
 **Solution**
-Make new changes and push them before creating a Pull Request.
+- Make new changes and push them before creating a Pull Request.
 
 **Error**
-Merge conflict
-
+- Merge conflict
 **Reason**
-The same part of a file was modified in both branches.
-
+- The same part of a file was modified in both branches.
 **Solution**
-Resolve the conflict, commit the changes, and update the Pull Request.
+- Resolve the conflict, commit the changes, and update the Pull Request.
 
 ## What I Learned
 - Learned what a Pull Request is.
