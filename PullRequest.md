@@ -26,7 +26,9 @@ Click Merge pull request if approved.
 ## Example
 ``Current Branch:
 ``
+
 feature-login
+
 Target Branch:
 
 ``main
@@ -34,38 +36,32 @@ Target Branch:
 After pushing the branch:
 
 git push -u origin feature-login
+
 Go to GitHub and create a Pull Request from:
 
 ``feature-login → main
 ``
 
-
 ## Output
 After the Pull Request is merged, the changes from the source branch become part of the target branch.
 
 ## Common Errors
-Error
-
+**Error**
 There isn’t anything to compare.
 
-Reason
-
+**Reason**
 Both branches contain the same changes.
 
-Solution
-
+**Solution**
 Make new changes and push them before creating a Pull Request.
 
-Error
-
+**Error**
 Merge conflict
 
-Reason
-
+**Reason**
 The same part of a file was modified in both branches.
 
-Solution
-
+**Solution**
 Resolve the conflict, commit the changes, and update the Pull Request.
 
 ## What I Learned
@@ -75,5 +71,4 @@ Understood why Pull Requests are important for collaboration.
 Learned how Pull Requests help review code before merging.
 
 ## My Practice
-
 I created a separate branch, made changes, pushed it to GitHub, and created a Pull Request to understand the complete GitHub workflow.
