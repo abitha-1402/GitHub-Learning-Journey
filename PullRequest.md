@@ -40,11 +40,40 @@ Go to GitHub and create a Pull Request from:
 
 ## Output
 After the Pull Request is merged, the changes from the source branch become part of the target branch.
+## Common Errors
 
+### Error 1
+
+```text
+There isn't anything to compare.
+```
+
+**Reason:**
+
+Both branches contain the same changes.
+
+**Solution:**
+
+Make new changes and push them before creating a Pull Request.
+
+---
+
+### Error 2
+
+```text
+Merge conflict
+```
+
+**Reason:**
+
+The same part of a file was modified in both branches.
+
+**Solution:**
+
+Resolve the conflict, commit the changes, and update the Pull Request.
 ## Common Errors
 **Error**
-
-- There isn’t anything to compare.
+There isn’t anything to compare.
 **Reason**
 
 - Both branches contain the same changes.
