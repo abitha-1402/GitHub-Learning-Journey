@@ -4,23 +4,21 @@
 ## What is a Pull Request?
 A Pull Request (PR) is a GitHub feature used to request merging changes from one branch into another branch. It allows other developers to review the changes before they are merged.
 
-<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/7d98a16a-4078-4216-a5f6-8b1ea2a98772" />
-
 ## Why Use a Pull Request?
-To review code before merging.
-To discuss changes with team members.
-To improve code quality.
-To collaborate safely.
-To keep the project organized.
+- To review code before merging.
+- To discuss changes with team members.
+- To improve code quality.
+- To collaborate safely.
+- To keep the project organized.
 
 ## Steps:
-Push your branch to GitHub.
-Open the repository on GitHub.
-Click Compare & pull request or it will directly show pull request at the top.
-Add a title and description.
-Click Create pull request.
-Review the changes.
-Click Merge pull request if approved.
+- Push your branch to GitHub.
+- Open the repository on GitHub.
+- Click Compare & pull request or it will directly show pull request at the top.
+- Add a title and description.
+- Click Create pull request.
+- Review the changes.
+- Click Merge pull request if approved.
 
 ## Example
 ``Current Branch:
@@ -63,10 +61,10 @@ The same part of a file was modified in both branches.
 Resolve the conflict, commit the changes, and update the Pull Request.
 
 ## What I Learned
-Learned what a Pull Request is.
-Learned how to create a Pull Request on GitHub.
-Understood why Pull Requests are important for collaboration.
-Learned how Pull Requests help review code before merging.
+- Learned what a Pull Request is.
+- Learned how to create a Pull Request on GitHub.
+- Understood why Pull Requests are important for collaboration.
+- Learned how Pull Requests help review code before merging.
 
 ## My Practice
 I created a separate branch, made changes, pushed it to GitHub, and created a Pull Request to understand the complete GitHub workflow.
