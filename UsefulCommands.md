@@ -1,4 +1,4 @@
-## Useful Git Commands for GitHub
+## Useful Git Commands
 
 The following Git commands are commonly used while working with GitHub repositories:
 
