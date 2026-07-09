@@ -78,6 +78,9 @@ I created a separate branch, made changes, pushed it to GitHub, and created a Pu
 
 <img width="1920" height="1080" alt="Pull request image 1" src="https://github.com/user-attachments/assets/c3b31fad-3871-446b-a2d0-4551ef10cbe6" />
 
+
+
+
 <img width="1920" height="1080" alt="Pull request image 2" src="https://github.com/user-attachments/assets/43cc7977-a45b-42f7-9fae-e83e319c275d" />
 
 <img width="1920" height="1080" alt="Pull request image 3" src="https://github.com/user-attachments/assets/db55c564-d238-4371-9cc0-0034badc5fa9" />
